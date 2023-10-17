@@ -3,4 +3,4 @@ This repository contains all the projects I have done to practice Manual Testing
 # Projects
 |Project Name     |	Description                                                            |
 |-----------------|------------------------------------------------------------------------|
-|MT on login page |	Created Test cases that will check the functionality of any login page.|
+|Login Page       |	Created Test cases that will check the functionality of login page.    |
